@@ -23,8 +23,8 @@
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540009-d72560a4-a0d9-4501-998b-9d1ddffa3512.svg" title="HTML5" width="50"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540036-3ec09de3-b769-4b8c-9881-0165b3140960.svg" title="CSS3" width="50"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540053-c593d7d5-4af5-4b26-bad4-b6d7acb3deb0.svg" title="SCSS" width="50"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543032-7541ed69-48e1-4d7c-b7b7-cbcfebc09871.svg" title="JavaScript" width="40"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179546054-e561cfd5-5fc0-4a72-9756-3a363bb5c75f.svg" title="TypeScript" width="40"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543032-7541ed69-48e1-4d7c-b7b7-cbcfebc09871.svg" title="JavaScript" width="50"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179546054-e561cfd5-5fc0-4a72-9756-3a363bb5c75f.svg" title="TypeScript" width="50"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540138-64c04df5-9133-46cf-890f-8b4ac3852fb2.svg" title="Angular" width="50"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540169-5ef02758-a7bc-437d-bf61-d9699c7e21d7.svg" title="Node.js" width="50"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179544088-763e1c43-7aad-4749-a8c4-6692742508ee.svg" title="MongoDB" width="50"/></a>
