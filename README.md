@@ -36,8 +36,10 @@
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543596-33e3c002-5aed-42ca-89c4-77f58ac0536c.svg" title="VSCode" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540318-60878969-0e77-4b0c-9e30-f86d18e7a865.svg" title="Git" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540379-00a114d3-953a-4e27-a2f4-73272cf440ab.svg" title="Github" width="45" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540398-29dd708f-7db0-4482-adb4-d017236f9a2b.svg" title="Postman" width="41" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/181584024-20343a58-f73b-43d0-9fe6-7f40d994bd88.svg" title="Postman" width="45" height="60"/></a>
+    
 </p>
+
 
 ## 📚 Currently Studying
 
