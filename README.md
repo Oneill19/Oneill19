@@ -7,7 +7,6 @@
 
 -   🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
 -   🌎 I'm living in Israel.
--   🎮 Currently Play - **Dragon Ball Z: Kakarot**
 -   🔭 I work as a **Full Stack Web Developer** at **Defence Industry**.
 -   👨‍💻 My latest project I worked on - **[Social-Preview-Generator](https://github.com/Oneill19/Social-Preview-Generator)**
 -   📫 How to reach me - **[oneill.p.19@gmail.com](mailto:oneill.p.19@gmail.com)**
