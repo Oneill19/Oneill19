@@ -11,7 +11,7 @@
 -   👨‍💻 My latest project I worked on - **[Social-Preview-Generator](https://github.com/Oneill19/Social-Preview-Generator)**
 -   📫 How to reach me - **[oneill.p.19@gmail.com](mailto:oneill.p.19@gmail.com)**
 
-## 🚀 Languages and Frameworks
+## 🚀 Languages, Frameworks and Databases
 
 <p align="left">
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179549890-f7bbf94b-a6f3-4125-b324-43e01beec02f.svg" title="C" width="45" height="60"/></a>
@@ -26,7 +26,9 @@
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179608603-61168798-04ad-4f6f-88b3-9e7cdaa064f7.svg" title="TypeScript" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540138-64c04df5-9133-46cf-890f-8b4ac3852fb2.svg" title="Angular" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540169-5ef02758-a7bc-437d-bf61-d9699c7e21d7.svg" title="Node.js" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/195141939-780afb9d-bc5e-472e-a239-9ac46bd0bd19.svg" title="Express.js" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179544088-763e1c43-7aad-4749-a8c4-6692742508ee.svg" title="MongoDB" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179548741-ff50e767-c3c9-42fa-9b33-8d484d2317b2.svg" title="Docker" width="45" height="60"/></a>
 </p>
 
 ## ⚒️ Tools
@@ -35,15 +37,14 @@
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179543596-33e3c002-5aed-42ca-89c4-77f58ac0536c.svg" title="VSCode" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540318-60878969-0e77-4b0c-9e30-f86d18e7a865.svg" title="Git" width="45" height="60"/></a>
     <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179540379-00a114d3-953a-4e27-a2f4-73272cf440ab.svg" title="Github" width="45" height="60"/></a>
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/181584024-20343a58-f73b-43d0-9fe6-7f40d994bd88.svg" title="Postman" width="45" height="60"/></a>
-    
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/181584024-20343a58-f73b-43d0-9fe6-7f40d994bd88.svg" title="Postman" width="45" height="60"/></a>  
 </p>
-
 
 ## 📚 Currently Studying
 
 <p align="left">
-    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179548741-ff50e767-c3c9-42fa-9b33-8d484d2317b2.svg" title="Docker" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/195142296-0868830d-da6b-4f0b-81d6-bebce3f9d189.svg" title="Nest.js" width="45" height="60"/></a>
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/195143751-2a9cb378-547e-4ee9-b2c8-4a2d9b25d30c.svg" title="Redis" width="45" height="60"/></a>
 </p>
 
 ## 📞 Contact Me
