@@ -53,5 +53,3 @@
     <a href="https://www.linkedin.com/in/oneill-panker/" target="_blank" title="Oneill's Linkedin"> <img align="center" src="https://user-images.githubusercontent.com/66797449/179542406-6a84f1d9-8cc8-400b-9f5a-918e104fdce0.svg" width="45" height="60"/></a>
     <a href="mailto:oneill.p.19@gmail.com" title="Oneill's Mail"> <img align="center" src="https://user-images.githubusercontent.com/66797449/179540482-19c0a1b3-1dc0-4a52-afc9-3491a859bd2d.svg" width="45" height="60"/></a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=oneill19&color=blue)
