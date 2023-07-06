@@ -7,7 +7,6 @@
 -   🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
 -   🌎 I'm living in Israel.
 -   👨‍💻 My latest project I worked on - **[Stocks-Server-Client](https://github.com/Oneill19/Stocks-Server-Client)**
--   📫 How to reach me - **[oneill.p.19@gmail.com](mailto:oneill.p.19@gmail.com)**
 
 ## 🚀 My Current Stack
 
@@ -20,6 +19,7 @@
 ## 💻 Other Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
