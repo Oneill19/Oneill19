@@ -4,7 +4,7 @@
 ## 👨‍🎓 About Me
 
 -   🔭 I work as a **Full Stack Web Developer** at **Defence Industry**.
--   🌱 I’m currently learning Software Engineering (B.Sc.) at ORT Braude College.
+-   🌱 I’m currently learning **Software Engineering (B.Sc.)** at **Braude Academic College**.
 -   🌎 I'm living in Israel.
 -   👨‍💻 My latest project I worked on - **[Stocks-Server-Client](https://github.com/Oneill19/Stocks-Server-Client)**
 -   📫 Feel free to contact me about **Angular**, **Express.js**, or any tech-related topics. 
