@@ -38,6 +38,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JFrog Artifactory](https://img.shields.io/badge/Jfrog_Artifactory-40BE46?style=for-the-badge&logo=jfrog&logoColor=white)
 
 <!--
 ## 📚 Currently Studying
