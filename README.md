@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="#"><img src="https://user-images.githubusercontent.com/66797449/153720384-ebe4addc-2296-4b09-905c-28d7752315f1.gif" width="30"></a>, I'm Oneill</h1>
-<h3 align="center">I'm a <strong>Frontend Engineer<strong> at <strong>Palo Alto Networks</strong></h3>
+<h3 align="center">I'm a <strong>Frontend Engineer</strong> at <strong>Palo Alto Networks</strong></h3>
 
 ## 👨‍🎓 About Me
 
