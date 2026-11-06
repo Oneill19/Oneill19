@@ -1,9 +1,9 @@
 <h1 align="center">Hi <a href="#"><img src="https://user-images.githubusercontent.com/66797449/153720384-ebe4addc-2296-4b09-905c-28d7752315f1.gif" width="30"></a>, I'm Oneill</h1>
-<h3 align="center">I'm a <strong>Frontend Engineer</strong> at <strong>Palo Alto Networks</strong></h3>
+<h3 align="center">I'm a <strong>Senior Frontend Engineer</strong> at <strong>Palo Alto Networks</strong></h3>
 
 ## 👨‍🎓 About Me
 
--   🔭 I work as a ***Frontend Engineer*** at ***[Palo Alto Networks](https://www.paloaltonetworks.com/)***.
+-   🔭 I work as a ***Senior Frontend Engineer*** at ***[Palo Alto Networks](https://www.paloaltonetworks.com/)***.
 -   🌱 I hold a ***B.Sc. in Software Engineering*** from ***Braude Academic College***.
 -   🌎 I live in Israel.
 -   👨‍💻 Former ***Full Stack Developer*** with knowledge in **NestJS** and **MongoDB**.
